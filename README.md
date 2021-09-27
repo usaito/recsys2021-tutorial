@@ -16,6 +16,8 @@ Materials for the "Counterfactual Learning and Evaluation for Recommender System
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
 - [slides](./slides): tutorial slides
 
+The Google Colab version of implementations are available [here](https://drive.google.com/drive/folders/1Jajmx6BPrxk5Ytr88VcayZu3iWxTZVMA?usp=sharing).
+
 ### Requirements and Setup
 
 The Python environment is built using [poetry](https://github.com/python-poetry/poetry). You can build the same environment as in our examples and simulations by cloning the repository and running `poetry install` directly under the folder (if you have not install poetry yet, please run pip install poetry first.).
@@ -39,7 +41,10 @@ python = "^3.9,<3.10"
 scikit-learn = "0.24.2"
 numpy = "^1.21.2"
 pandas = "^1.3.3"
-obp = "0.5.0"
+obp = "0.5.1"
 matplotlib = "^3.4.3"
 jupyterlab = "^3.1.13"
 ```
+
+### Contact
+If you have any question, please feel free to contact: ys552@cornell.edu

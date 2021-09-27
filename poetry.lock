@@ -612,7 +612,7 @@ python-versions = ">=3.7,<3.11"
 
 [[package]]
 name = "obp"
-version = "0.5.0"
+version = "0.5.1"
 description = "Open Bandit Pipeline: a python library for bandit algorithms and off-policy evaluation"
 category = "main"
 optional = false
@@ -1195,7 +1195,7 @@ viz = ["matplotlib", "seaborn", "nc-time-axis"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9,<3.10"
-content-hash = "404ba118ca013a57799ebbd1a6f3375e792074c723c16eeb5a45f0b1df9110fc"
+content-hash = "39aec9670d7cb94aae7bf26253ddf18861995f22a0064cee195a7d8f93400fce"
 
 [metadata.files]
 anyio = [
@@ -1567,7 +1567,8 @@ numpy = [
     {file = "numpy-1.21.2.zip", hash = "sha256:423216d8afc5923b15df86037c6053bf030d15cc9e3224206ef868c2d63dd6dc"},
 ]
 obp = [
-    {file = "obp-0.5.0.tar.gz", hash = "sha256:a8bbcb9aeb6e17da754690abac7e64e28f4c09214de3ce64643966aeaf1b947b"},
+    {file = "obp-0.5.1-py3.9.egg", hash = "sha256:bbea32e56da1ab15d8e201e175620c9c8c7b49ca285d584d4771c7f13a893582"},
+    {file = "obp-0.5.1.tar.gz", hash = "sha256:e7de19a3dba0c50198f36bc1a3c1c19dd29cf327349e6a05351533b620f00f24"},
 ]
 outdated = [
     {file = "outdated-0.2.1-py3-none-any.whl", hash = "sha256:177e381857c10c410dc643b48ace8753ab977d5ae39642297a7f76eb4a3c1c8e"},
