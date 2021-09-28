@@ -14,13 +14,14 @@ Materials for the "Counterfactual Learning and Evaluation for Recommender System
 
 - [examples](./examples): brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
-- [slides](./slides): tutorial slides
+- [real](./real): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
+<!-- - [slides](./slides): tutorial slides -->
 
-The Google Colab version of implementations are available [here](https://drive.google.com/drive/folders/1Jajmx6BPrxk5Ytr88VcayZu3iWxTZVMA?usp=sharing).
+The Google Colab version of implementations (examples) are available [here](https://drive.google.com/drive/folders/1P3IPoFhVQ0n19EU5PCF_ZfkxRdpTJnJa?usp=sharing).
 
 ### Requirements and Setup
 
-The Python environment is built using [poetry](https://github.com/python-poetry/poetry). You can build the same environment as in our examples and simulations by cloning the repository and running `poetry install` directly under the folder (if you have not install poetry yet, please run pip install poetry first.).
+The Python environment is built using [poetry](https://github.com/python-poetry/poetry). You can build the same environment as in our examples and simulations by cloning the repository and running `poetry install` directly under the folder (if you have not install poetry yet, please run `pip install poetry` first.).
 
 ```
 # clone the obp repository
