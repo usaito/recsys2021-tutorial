@@ -14,7 +14,7 @@ Materials for the "Counterfactual Learning and Evaluation for Recommender System
 
 - [examples](./examples): brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
-- [real](./real): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
+- [real-world](./real-world): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
 <!-- - [slides](./slides): tutorial slides -->
 
 The Google Colab version of implementations (examples) are available [here](https://drive.google.com/drive/folders/1P3IPoFhVQ0n19EU5PCF_ZfkxRdpTJnJa?usp=sharing).
