@@ -1,13 +1,14 @@
 ## Counterfactual Learning and Evaluation for Recommender Systems (RecSys'21 Tutorial)
 
-Materials for the "Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances", a tutorial delivered at the 15th ACM Conference on Recommender System ([RecSys'21](https://recsys.acm.org/recsys21/)).
+Materials for **"Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances"**, a tutorial delivered at the 15th ACM Conference on Recommender System ([RecSys'21](https://recsys.acm.org/recsys21/)).
 
 - Presenters: [Yuta Saito](https://usaito.github.io/) (Cornell University, USA) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) (Cornell University, USA).
 
 - The tutorial website: https://sites.google.com/cornell.edu/recsys2021tutorial
 - The tutorial proposal: https://dl.acm.org/doi/10.1145/3460231.3473320
 - The list of tutorials at RecSys2021: https://recsys.acm.org/recsys21/tutorials/
-- A broad list of related papers and resources: https://github.com/hanjuku-kaso/awesome-offline-rl
+- Reference Package (Open Bandit Pipeline): https://github.com/st-tech/zr-obp
+- A survey of related papers and resources: https://github.com/hanjuku-kaso/awesome-offline-rl
 
 
 ### Contents
