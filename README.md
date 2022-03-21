@@ -2,13 +2,14 @@
 
 Materials for **"Counterfactual Learning and Evaluation for Recommender Systems: Foundations, Implementations, and Recent Advances"**, a tutorial delivered at the 15th ACM Conference on Recommender System ([RecSys'21](https://recsys.acm.org/recsys21/)).
 
-- Presenters: [Yuta Saito](https://usaito.github.io/) (Cornell University, USA) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) (Cornell University, USA).
+- Presenters: [Yuta Saito](https://usait0.com/en/) (Cornell University, USA) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) (Cornell University, USA).
 
-- The tutorial website: https://sites.google.com/cornell.edu/recsys2021tutorial
-- The tutorial proposal: https://dl.acm.org/doi/10.1145/3460231.3473320
-- The list of tutorials at RecSys2021: https://recsys.acm.org/recsys21/tutorials/
+- Tutorial website: https://sites.google.com/cornell.edu/recsys2021tutorial
+- Video recording: https://youtu.be/HMo9fQMVB4w
+- Tutorial proposal: https://dl.acm.org/doi/10.1145/3460231.3473320
+- List of tutorials at RecSys2021: https://recsys.acm.org/recsys21/tutorials/
 - Reference Package (Open Bandit Pipeline): https://github.com/st-tech/zr-obp
-- A survey of related papers and resources: https://github.com/hanjuku-kaso/awesome-offline-rl
+- Survey of related papers: https://github.com/hanjuku-kaso/awesome-offline-rl
 
 
 ### Contents
@@ -16,7 +17,6 @@ Materials for **"Counterfactual Learning and Evaluation for Recommender Systems:
 - [examples](./examples): brief examples describing how to use Open Bandit Pipeline with synthetic data, classification data, and real-world bandit data
 - [simulations](./simulations): simulation codes comparing a wide variety of existing OPE estimators on synthetic data
 - [real-world](./real-world): a brief demo of OPE/OPL on real bandit dataset (need [Open Bandit Dataset](https://research.zozo.com/data.html))
-<!-- - [slides](./slides): tutorial slides -->
 
 The Google Colab version of implementations (examples) are available [here](https://drive.google.com/drive/folders/1P3IPoFhVQ0n19EU5PCF_ZfkxRdpTJnJa?usp=sharing).
 
