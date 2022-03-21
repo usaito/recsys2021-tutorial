@@ -5,7 +5,7 @@ Materials for **"Counterfactual Learning and Evaluation for Recommender Systems:
 - Presenters: [Yuta Saito](https://usait0.com/en/) (Cornell University, USA) and [Thorsten Joachims](https://www.cs.cornell.edu/people/tj/) (Cornell University, USA).
 
 - Tutorial website: https://sites.google.com/cornell.edu/recsys2021tutorial
-- Video recording: https://youtu.be/HMo9fQMVB4w
+- Recording: https://youtu.be/HMo9fQMVB4w
 - Tutorial proposal: https://dl.acm.org/doi/10.1145/3460231.3473320
 - List of tutorials at RecSys2021: https://recsys.acm.org/recsys21/tutorials/
 - Reference Package (Open Bandit Pipeline): https://github.com/st-tech/zr-obp
